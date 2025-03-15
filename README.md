@@ -14,6 +14,9 @@ Ministry of Railway
 Develop an AI-powered real-time navigation system for railway stations, offering voice-guided assistance for differently-abled passengers, live train and platform updates, congestion alerts, and seamless integration with railway services. The system includes a user feedback mechanism to improve station facilities and enhances the experience for first-time travelers.
 
 ## Proposed Solution / Architecture Diagram
+![web sih](https://github.com/user-attachments/assets/69907694-9ec7-4ab0-bd31-6907a5370114)
+
+
 User Interface
 
 Mobile App (Android & iOS)
